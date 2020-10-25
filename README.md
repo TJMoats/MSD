@@ -1,2 +1,2 @@
 # MSD
-Microservice management for development environments through a nodejs/react application.
+Docker based Microservice Management for development environments through a nodejs/react application.
